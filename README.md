@@ -1,5 +1,5 @@
 # vue-express-socket-demo
-vue+express+socket.io简易demo
+it's a project of vue+express+socket.io, just for practice
 
 
 ## front-end
