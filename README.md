@@ -22,7 +22,7 @@ npm run serve
 npm install
 ```
 
-#### Compiles and hot-reloads for development
+#### Run 
 ```
 npm run start
 ```
