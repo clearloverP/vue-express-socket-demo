@@ -67,7 +67,6 @@ export default {
   data() {
     return {
       tcpUrl: 'ws://127.0.0.1:3000',
-      tcpUrl: '',
       socket: '',
       form: {
         sign: '',
